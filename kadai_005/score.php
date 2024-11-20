@@ -21,8 +21,8 @@
          $score9 = 30;
          $score10 = 60;
         //演算する
-        $sum_all = $score1.$score2.$score3.$score4.$score5.$score6.$score7.$score8.$score9.$score10;
-        $average = $sum_all / 10
+        $sum_all = $score1+$score2+$score3+$score4+$score5+$score6+$score7+$score8+$score9+$score10;
+        $average = $sum_all / 10;
 
          // 変数の中身を出力する
          echo $sum_all;
