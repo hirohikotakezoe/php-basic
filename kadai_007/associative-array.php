@@ -8,7 +8,7 @@
 <body>
     <?php
         $array_data = ['name' =>'onion','price' => '200', 'weight' =>'160'];
-        echo $array_data;
+        echo $array_data[];
 
     ?>
 
